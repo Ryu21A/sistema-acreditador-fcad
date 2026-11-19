@@ -2,6 +2,8 @@
 
 Suite de automatización end-to-end desarrollada para el Área de Extensión de la Facultad de Ciencias de la Administración (FCAD - UNER). Digitaliza el ciclo completo de eventos académicos: desde la inscripción con código QR y el control de asistencia en puerta sin conexión a internet, hasta la generación masiva de certificados PDF y su envío automatizado respetando las cuotas diarias de Gmail.
 
+link al acreditador: https://acreditador-fcad.pages.dev/
+
 ---
 
 ## El problema que resuelve
